@@ -1,0 +1,5 @@
+Year=int(input("Enter your year:"))
+Branch=input("Enter your branch:")
+Name=input("Enetr your name:")
+output=("My name is {2} from {1} joined in the year {0}").format(Year,Branch,Name)
+print(output)

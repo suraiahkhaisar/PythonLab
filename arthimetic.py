@@ -1,0 +1,8 @@
+a=int(input("Enter the first number:"))
+b=int(input("Enter the second number:"))
+print("Addition of",a,"and",b,"is:",a+b)
+print("Difference of",a,"and",b,"is:",a-b)
+print("Multiplication of",a,"and",b,"is:",a*b)
+print("Division of",a,"and",b,"is:",a/b)
+print("Remainder of",a,"and",b,"is:",a%b)
+print("Floor division of",a,"and",b,"is:",a//b)
